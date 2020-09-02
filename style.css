@@ -1,0 +1,48 @@
+html{
+    background: yellow;
+    text-align: center;
+    font-family: monospace;
+}
+
+.mainText{
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: blue solid 5px;
+}
+
+.text{
+    color: red;
+    text-align: left;
+    font-size: xx-large;
+}
+
+input{
+    border: red solid 2px;
+    size: landscape;
+    border-radius: 5px;
+    font-size: large;
+    color: blue;
+    font-weight: bold;
+}
+
+.messages{
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+    margin: 50px;
+    border: blue groove 5px;
+}
+
+button{
+    font-size: x-large;
+    color: blue;
+    border: blue groove 5px;
+    text-align: center;
+}
+
+name{
+    color: blue;
+    font-size: small;
+    margin: initial;
+}
