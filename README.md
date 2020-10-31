@@ -16,4 +16,9 @@ that you will write but the current Syntax is :
 
 # About
 Developed by AmrWassiem
+    <DOCTYPE HTML!>
+    <html>
+    <body>
     <span style="color:red"> *some emphasized markdown text*</span>
+    </body>
+    </html>
