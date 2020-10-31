@@ -17,8 +17,11 @@ that you will write but the current Syntax is :
 # About
 Developed by AmrWassiem
 
----
-output: pdf_document
----
-
-Roses are \textcolor{red}{red}, 
+colorize <- function(x, color) {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{%s}{%s}", color, x)
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: %s;'>%s</span>", color, 
+      x)
+  } else x
+}
