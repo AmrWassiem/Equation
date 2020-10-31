@@ -3,7 +3,7 @@ This is an Example of a website that can solve
 Equations using x variable
 
 # Website
-You can visit the site from [HERE](https://amrwassiem.github.io/Equation/).
+You can visit the site from [HERE](https://amrwassiem.github.io/Equation/index.html).
 
 # Active
 Every month, I puplish an update For This Website
