@@ -16,5 +16,3 @@ that you will write but the current Syntax is :
 
 # About
 Developed by AmrWassiem
-
-<span style="color:red">some **This is Red Bold.** text</span>
