@@ -16,4 +16,3 @@ that you will write but the current Syntax is :
 
 # About
 Developed by AmrWassiem
-23-6-2020
