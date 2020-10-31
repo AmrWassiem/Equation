@@ -12,7 +12,7 @@ and you can see the code of it
 # Equation Syntax
 The Most Important thing is the Syntax of the Equation
 that you will write but the current Syntax is :
-X +\-\*\/ num = num
+**X +\-\*\/ num = num**
 
 # About
 Developed by AmrWassiem
