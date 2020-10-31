@@ -15,4 +15,4 @@ that you will write but the current Syntax is :
 ### X +\-\*\/ num = num
 
 # About
-Developed by AmrWassiem
+Developed by $\color{#00f}{your-text-here}$
