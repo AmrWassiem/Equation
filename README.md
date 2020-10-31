@@ -15,4 +15,6 @@ that you will write but the current Syntax is :
 ### X +\-\*\/ num = num
 
 # About
-Developed by $\color{#00f}{your-text-here}$
+Developed by AmrWassiem
+
+This is <span style="color: red">written in red</span>.
