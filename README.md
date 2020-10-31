@@ -17,4 +17,4 @@ that you will write but the current Syntax is :
 # About
 Developed by AmrWassiem
 
-This is <span style="color: red">written in red</span>.
+<span style="color:red">some **This is Red Bold.** text</span>
